@@ -1,0 +1,17 @@
+{
+  "name": "microsservicos-auth-apirest",
+  "version": "1.0.0",
+  "description": "Microsserviço criado durante live do curso da DIO",
+  "main": "/dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./",
+    "build": "tsc -p ."
+  },
+  "author": "Fernando Carvalho",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^17.0.17",
+    "typescript": "^4.5.5"
+  }
+}
